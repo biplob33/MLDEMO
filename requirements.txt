@@ -2,3 +2,6 @@ sklearn
 numpy
 matplotlib
 nbinteract
+cvxpy
+pandas
+mlxtend
